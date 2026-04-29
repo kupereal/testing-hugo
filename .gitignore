@@ -1,4 +1,8 @@
 hugo
+hugo.exe
 public/
 resources/_gen/
 .hugo_build.lock
+hugo_stats.json
+node_modules/
+npm-debug.log*
